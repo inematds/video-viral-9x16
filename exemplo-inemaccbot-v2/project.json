@@ -1,0 +1,365 @@
+{
+  "name": "INEMACCBOT v2 - Para tudo! Você já tá usando?",
+  "duration": 48.0,
+  "video": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30
+  },
+  "brand": {
+    "primary": "#FFC531",
+    "primary2": "#FFB000",
+    "accent": "#22D3EE",
+    "alert": "#FF3B4E",
+    "ok": "#3DDC84",
+    "gradient": [
+      "#FFF1B0",
+      "#FFC531",
+      "#E58A00"
+    ],
+    "background": "#04060C"
+  },
+  "words": "audio/words.json",
+  "scenes": "scenes.js",
+  "images": {
+    "capa": "assets/capa-inemaccbot.jpg",
+    "hero": "assets/inema_hero.png"
+  },
+  "timeline": {
+    "c1": 1.3,
+    "c2": 3.95,
+    "c3": 5.75,
+    "c4": 7.3,
+    "c5": 9.15,
+    "c6": 10.9,
+    "c7": 13.35,
+    "c8": 15.0,
+    "c9": 16.4,
+    "c10": 17.4,
+    "c11": 19.2,
+    "c12": 22.2,
+    "c13": 23.55,
+    "c14": 26.25,
+    "c15": 27.65,
+    "c16": 31.55,
+    "c17": 35.55,
+    "c18": 37.7,
+    "c19": 42.9
+  },
+  "captions": {
+    "windows": [
+      [
+        "c3",
+        "c4"
+      ],
+      [
+        "c7",
+        "c11"
+      ],
+      [
+        "c13",
+        "c14"
+      ],
+      [
+        "c16",
+        "c17"
+      ]
+    ],
+    "groups": [
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        2,
+        3,
+        5,
+        3
+      ],
+      [
+        2,
+        2,
+        3
+      ],
+      [
+        2,
+        3,
+        3,
+        3
+      ]
+    ],
+    "displayFix": {
+      "ia": "IA"
+    },
+    "y": 1335,
+    "size": 80,
+    "maxWidth": 960
+  },
+  "base": {
+    "sources": {
+      "A": "broll/clipA.mp4",
+      "B": "broll/clipB.mp4",
+      "C": "broll/clipC.mp4",
+      "D": "broll/clipD.mp4",
+      "E": "broll/clipE.mp4"
+    },
+    "grade": "eq=contrast=1.07:saturation=1.10,unsharp=5:5:0.45",
+    "segments": [
+      {
+        "t0": 0.0,
+        "t1": 1.3,
+        "src": "D",
+        "ss": 1.55,
+        "sd": 1.3,
+        "mode": "1x",
+        "note": "palm STOP  - \"Para tudo!\""
+      },
+      {
+        "t0": 1.3,
+        "t1": 3.95,
+        "src": "D",
+        "ss": 0.0,
+        "sd": 1.45,
+        "mode": "mci",
+        "note": "shocked face slow-mo - \"Você já tá usando o INEMACCBOT?\""
+      },
+      {
+        "t0": 3.95,
+        "t1": 5.75,
+        "src": "D",
+        "ss": 3.1,
+        "sd": 2.8,
+        "mode": "1x",
+        "note": "phone burst (1.56x) - \"Ele é de graça\" (drop)"
+      },
+      {
+        "t0": 5.75,
+        "t1": 7.3,
+        "src": "D",
+        "ss": 6.45,
+        "sd": 1.55,
+        "mode": "1x",
+        "note": "smile - \"E olha o que ele faz\""
+      },
+      {
+        "t0": 7.3,
+        "t1": 9.15,
+        "src": "D",
+        "ss": 8.1,
+        "sd": 1.85,
+        "mode": "1x",
+        "note": "pointing - \"sistema de agentes\""
+      },
+      {
+        "t0": 9.15,
+        "t1": 10.9,
+        "src": "A",
+        "ss": 8.6,
+        "sd": 1.75,
+        "mode": "1x",
+        "note": "face close-up - \"seu próprio Jarvis\""
+      },
+      {
+        "t0": 10.9,
+        "t1": 13.35,
+        "src": "A",
+        "ss": 4.08,
+        "sd": 1.75,
+        "mode": "mci",
+        "note": "burst - \"dez, cem, mil tarefas\""
+      },
+      {
+        "t0": 13.35,
+        "t1": 15.0,
+        "src": "E",
+        "ss": 8.0,
+        "sd": 1.65,
+        "mode": "1x",
+        "note": "agent hall lanes - \"organiza tudo em filas\""
+      },
+      {
+        "t0": 15.0,
+        "t1": 16.4,
+        "src": "A",
+        "ss": 16.8,
+        "sd": 1.4,
+        "mode": "1x",
+        "note": "robots - \"distribui pros workers\""
+      },
+      {
+        "t0": 16.4,
+        "t1": 17.4,
+        "src": "A",
+        "ss": 18.75,
+        "sd": 1.0,
+        "mode": "1x",
+        "note": "core - \"e os agentes de IA\""
+      },
+      {
+        "t0": 17.4,
+        "t1": 19.2,
+        "src": "A",
+        "ss": 20.2,
+        "sd": 1.8,
+        "mode": "1x",
+        "note": "outputs - \"executam cada skill\""
+      },
+      {
+        "t0": 19.2,
+        "t1": 22.2,
+        "src": "B",
+        "ss": 0.0,
+        "sd": 2.71,
+        "mode": "mci",
+        "note": "cube plug - \"Pluga qualquer skill, workflow ou sistema\""
+      },
+      {
+        "t0": 22.2,
+        "t1": 23.55,
+        "src": "B",
+        "ss": 3.2,
+        "sd": 1.35,
+        "mode": "1x",
+        "note": "network - \"e ele orquestra tudo\""
+      },
+      {
+        "t0": 23.55,
+        "t1": 26.25,
+        "src": "B",
+        "ss": 6.125,
+        "sd": 2.7,
+        "mode": "1x",
+        "note": "dashboards - \"acompanha cada fluxo em tempo real\""
+      },
+      {
+        "t0": 26.25,
+        "t1": 27.65,
+        "src": "A",
+        "ss": 12.375,
+        "sd": 1.225,
+        "mode": "mci",
+        "note": "phone - \"direto do Telegram\""
+      },
+      {
+        "t0": 27.65,
+        "t1": 31.55,
+        "src": "B",
+        "ss": 8.83,
+        "sd": 3.34,
+        "mode": "blend",
+        "blur": 10,
+        "note": "blurred bg - course"
+      },
+      {
+        "t0": 31.55,
+        "t1": 35.55,
+        "src": "E",
+        "ss": 2.2,
+        "sd": 5.2,
+        "mode": "1x",
+        "note": "chaos -> snap -> hall (1.3x) - \"não volta mais pro modo manual\""
+      },
+      {
+        "t0": 35.55,
+        "t1": 37.7,
+        "src": "B",
+        "ss": 12.2,
+        "sd": 2.15,
+        "mode": "1x",
+        "note": "man turn/smile - \"E repito, é tudo grátis!\""
+      },
+      {
+        "t0": 37.7,
+        "t1": 42.9,
+        "src": "C",
+        "ss": 0.9,
+        "sd": 5.2,
+        "mode": "1x",
+        "note": "globe - platform + languages"
+      },
+      {
+        "t0": 42.9,
+        "t1": 48.0,
+        "src": null,
+        "ss": 0,
+        "sd": 0,
+        "mode": "black",
+        "note": "end card"
+      }
+    ],
+    "out": "out/base.mp4"
+  },
+  "music_remix": {
+    "source": "audio/music_v1.mp3",
+    "semitones": 1,
+    "fade_in": 0.3,
+    "fade_out": 0.3,
+    "crossfade": 0.012,
+    "chunks": [
+      [
+        0.6,
+        35.305,
+        2.470212
+      ],
+      [
+        42.164342,
+        45.905,
+        35.22737
+      ],
+      [
+        44.0,
+        45.905,
+        38.758081
+      ],
+      [
+        44.0,
+        53.9,
+        40.556161
+      ]
+    ],
+    "out": "audio/music_remix.wav",
+    "note": "v1 track +1 semitone; drop 1 (src 2.92s) lands on 'graça' (4.66s); final drop (src 44.0s) lands on 'grátis' (36.96s)"
+  },
+  "audio": {
+    "narration": "audio/narracao_puck.wav",
+    "music": "audio/music_remix.wav",
+    "music_gain": 0.62,
+    "duck": {
+      "threshold": 0.05,
+      "ratio": 4,
+      "attack": 15,
+      "release": 320
+    },
+    "sfx": {
+      "impact": "audio/sfx/impact.mp3",
+      "whoosh": "audio/sfx/whoosh.mp3",
+      "pop": "audio/sfx/pop.mp3",
+      "riser": "audio/sfx/riser.mp3",
+      "chime": "audio/sfx/chime.mp3",
+      "glitch": "audio/sfx/glitch.mp3",
+      "scratch": "audio/sfx/scratch.mp3",
+      "subdrop": "audio/sfx/subdrop.mp3",
+      "notify": "audio/sfx/notify.mp3"
+    },
+    "sfx_gain": {
+      "impact": 0.85,
+      "whoosh": 0.55,
+      "pop": 0.45,
+      "riser": 0.6,
+      "chime": 0.5,
+      "glitch": 0.45,
+      "scratch": 0.8,
+      "subdrop": 0.9,
+      "notify": 0.6
+    },
+    "lufs": -14,
+    "true_peak": -1.2,
+    "out": "out/audio_mix.wav"
+  },
+  "render": {
+    "out": "out/INEMACCBOT_v2_9x16.mp4",
+    "crf": 18,
+    "preset": "slow"
+  }
+}

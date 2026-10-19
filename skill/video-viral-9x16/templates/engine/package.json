@@ -1,0 +1,9 @@
+{
+  "name": "mg-engine",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Motion-graphics overlay engine for 9:16 viral shorts (see mg_core.js)",
+  "dependencies": {
+    "@napi-rs/canvas": "^0.1.100"
+  }
+}

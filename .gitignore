@@ -1,0 +1,8 @@
+node_modules/
+.venv/
+__pycache__/
+*.pyc
+.env
+out/
+*.codex.log
+exemplo-inemaccbot-v2/audio/music_remix.wav
