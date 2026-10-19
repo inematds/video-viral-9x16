@@ -16,7 +16,7 @@ Este guia registra **como os dois vídeos do INEMACCBOT foram feitos**, com os m
 
 Por isso os textos nunca saem tortos ou com letras inventadas, cada palavra-chave "explode" na tela no momento exato em que é falada e as viradas da música caem nas palavras mais importantes.
 
-![Fluxo de produção](https://private-us-east-1.manuscdn.com/sessionFile/hXsDElIAYvM0fSKhUB4u2x/sandbox/zprZC2JPItoCueZU5TfVt5-images_1791413741056_na1fn_L2hvbWUvdWJ1bnR1L3ZpZGVvX2tpdC9ndWlhL3BpcGVsaW5l.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvaFhzREVsSUFZdk0wZlNLaFVCNHUyeC9zYW5kYm94L3pwclpDMkpQSXRvQ3VlWlU1VGZWdDUtaW1hZ2VzXzE3OTE0MTM3NDEwNTZfbmExZm5fTDJodmJXVXZkV0oxYm5SMUwzWnBaR1Z2WDJ0cGRDOW5kV2xoTDNCcGNHVnNhVzVsLnBuZyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MzQ5MTIwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIBb-jfQnRsnYmgzql8QV5lxHMZQguQyBoCoEO~wTEolMAiEAt6Y1G4ukudJgQTlDKBE-TMBseTFGPM1Sj6kIwELLGqE_)
+![Fluxo de produção](../pipeline.png)
 
 ## 2. Recursos usados
 
@@ -48,7 +48,7 @@ Por isso os textos nunca saem tortos ou com letras inventadas, cada palavra-chav
 9. **Prévias e correções.** Gerei folhas de prévia sobre os frames reais e corrigi texto em cima de rosto, sobreposições e símbolos que a fonte não tinha.
 10. **Mixagem, render e QC.** Mixei a -14 LUFS, renderizei em 1080x1920 a 30 fps e conferi frames, volume e uma transcrição do áudio final para garantir que a fala está clara sobre a música.
 
-![Linha do tempo do vídeo 2 (24 frames)](https://private-us-east-1.manuscdn.com/sessionFile/hXsDElIAYvM0fSKhUB4u2x/sandbox/zprZC2JPItoCueZU5TfVt5-images_1791413741056_na1fn_L2hvbWUvdWJ1bnR1L3ZpZGVvX2tpdC9ndWlhL2ZvbGhhX3ZpZGVvMg.jpg?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvaFhzREVsSUFZdk0wZlNLaFVCNHUyeC9zYW5kYm94L3pwclpDMkpQSXRvQ3VlWlU1VGZWdDUtaW1hZ2VzXzE3OTE0MTM3NDEwNTZfbmExZm5fTDJodmJXVXZkV0oxYm5SMUwzWnBaR1Z2WDJ0cGRDOW5kV2xoTDJadmJHaGhYM1pwWkdWdk1nLmpwZyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MzQ5MTIwMH19fV19&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQCNBuqBZ02GOkbzwhpdfVKQleMK2BRutbUHXaJc4izDZgIgRYInVbkAnXencafiX~OIhXxja8-hOMRe92BTId19m-g_)
+![Linha do tempo do vídeo 2 (24 frames)](../folha_video2.jpg)
 
 ## 4. Os roteiros
 
